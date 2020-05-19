@@ -1,2 +1,3 @@
 # Chess-engine-Haskell
-A chess engine written in Haskell. 
+For formatting I used the Ormolu formatter. Here's a link https://monadfix.com/ormolu
+
